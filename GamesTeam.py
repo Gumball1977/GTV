@@ -410,5 +410,5 @@ async def test(ctx, msg:Option(str,description='Что-то',required=True)):
     await ctx.delete()
     await ctx.send(msg)
 
-bot_token = 'OTA4OTcxNDk5NDA5NTE4NjIy.G9HMm7.vTkhMJfT01idaTi0_7PmsQ2-qxIV17NmasriGY'
+bot_token = 'token'
 client.run(bot_token)
