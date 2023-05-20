@@ -1,0 +1,5 @@
+balance
+roulette
+blackjack
+daily
+wheel - колесо фортуны
